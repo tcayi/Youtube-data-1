@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCGwAEwrZdorxDcfkwU2PM0g', 'ChannelName': '酷派音樂', 'Comments': '69 則留言', 'Desc': '蔡文展吉他訓練中心\nhttp://www.wenguitar.com', 'DisLikes': '60', 'Duration': '11:01', 'Likes': '1178', 'Publish_Date': '2014年7月8日', 'Subscribers': '7.2萬 位訂閱者', 'Title': '吉他入門免費教學6：旋律練習 巴哈小步舞曲', 'Views': '觀看次數：299,726次'}

@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '8 則留言', 'Desc': '學好第四章動物界的方法，要問三個問題：\n(1)共同特徵?\n(2)哪些種類?\n(3)相關應用?', 'DisLikes': '10', 'Duration': '0:30', 'Likes': '84', 'Publish_Date': '2016年5月27日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一下生物4-5(1)如何學好動物界？', 'Views': '觀看次數：15,801次'}

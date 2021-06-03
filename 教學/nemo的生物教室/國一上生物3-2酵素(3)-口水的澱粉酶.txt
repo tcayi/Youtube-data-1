@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '3 則留言', 'Desc': '', 'DisLikes': '3', 'Duration': '3:25', 'Likes': '34', 'Publish_Date': '2015年10月21日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一上生物3-2酵素(3)-口水的澱粉酶', 'Views': '觀看次數：8,892次'}

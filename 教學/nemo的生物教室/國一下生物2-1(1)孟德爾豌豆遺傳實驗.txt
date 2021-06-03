@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '19 則留言', 'Desc': '', 'DisLikes': '1', 'Duration': '0:28', 'Likes': '59', 'Publish_Date': '2014年3月4日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一下生物2-1(1)孟德爾豌豆遺傳實驗', 'Views': '觀看次數：11,913次'}

@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UC7N2uo785LMZjYjDcobMf_w', 'ChannelName': '呂聰賢', 'Comments': '0 則留言', 'Desc': '', 'DisLikes': '0', 'Duration': '3:11', 'Likes': '2', 'Publish_Date': '2019年8月17日', 'Subscribers': '1.67萬 位訂閱者', 'Title': '12製作影片題並指定播放時間點', 'Views': '觀看次數：470次'}

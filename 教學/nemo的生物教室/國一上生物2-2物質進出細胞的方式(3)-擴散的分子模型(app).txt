@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '0 則留言', 'Desc': 'AtomsInMotion：免費APP，iOS平台。', 'DisLikes': '1', 'Duration': '1:47', 'Likes': '23', 'Publish_Date': '2015年10月1日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一上生物2-2物質進出細胞的方式(3)-擴散的分子模型(app)', 'Views': '觀看次數：5,820次'}

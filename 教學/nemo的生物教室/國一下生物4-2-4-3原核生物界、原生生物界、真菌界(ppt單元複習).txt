@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '18 則留言', 'Desc': '五大界學習要領：圍繞三個Question\n(1)構造  (2)分類  (3)應用', 'DisLikes': '3', 'Duration': '27:10', 'Likes': '57', 'Publish_Date': '2016年5月6日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一下生物4-2-4-3原核生物界、原生生物界、真菌界(ppt單元複習)', 'Views': '觀看次數：11,648次'}

@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UC5jPsgpbSKH0xyQCypm3AHg', 'ChannelName': 'Song Jade', 'Comments': '觀看次數：6,998次 • 2020年10月24日 • 轉自抖音-渡鸦漫谈', 'Desc': '轉自抖音-渡鸦漫谈', 'DisLikes': '0', 'Duration': '4:02', 'Likes': '29', 'Publish_Date': '2020年10月24日', 'Subscribers': '1260 位訂閱者', 'Title': '新世紀福音戰士-第十三集 講動畫解說', 'Views': '觀看次數：6,998次'}

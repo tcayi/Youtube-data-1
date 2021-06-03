@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCDIxyUOAs2F9vYKozdsmj_A', 'ChannelName': '暗黑動畫師 血多 Xieduo', 'Comments': '149 則留言', 'Desc': '上個月接的動畫廣告\n當然是非常的「工商服務」啦～\n\n話說也許有一天小舞和o甲賀會再出現在血多別的作品中也不一定喔', 'DisLikes': '54', 'Duration': '0:28', 'Likes': '1449', 'Publish_Date': '2011年7月21日', 'Subscribers': '14.5萬 位訂閱者', 'Title': '超扯廣告血多 之 第一屆創意喝綠茶大賽開始！', 'Views': '觀看次數：377,122次'}

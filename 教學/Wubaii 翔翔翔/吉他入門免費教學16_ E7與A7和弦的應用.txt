@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCGwAEwrZdorxDcfkwU2PM0g', 'ChannelName': '酷派音樂', 'Comments': '2 則留言', 'Desc': '蔡文展吉他訓練中心\nhttp://www.wenguitar.com', 'DisLikes': '7', 'Duration': '0:30', 'Likes': '173', 'Publish_Date': '2014年7月21日', 'Subscribers': '7.2萬 位訂閱者', 'Title': '吉他入門免費教學16: E7與A7和弦的應用', 'Views': '觀看次數：51,706次'}

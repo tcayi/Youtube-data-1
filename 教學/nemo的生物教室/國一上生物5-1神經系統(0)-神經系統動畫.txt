@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '3 則留言', 'Desc': '', 'DisLikes': '6', 'Duration': '3:28', 'Likes': '38', 'Publish_Date': '2015年12月10日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一上生物5-1神經系統(0)-神經系統動畫', 'Views': '觀看次數：11,036次'}

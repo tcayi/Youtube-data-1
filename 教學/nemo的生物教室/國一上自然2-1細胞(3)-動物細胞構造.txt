@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '11 則留言', 'Desc': '動物細胞：包含細胞膜、細胞核、粒線體、液胞、細胞質等。\n其中細胞核為生命中樞具有DNA，粒線體為能量中心，液胞為倉庫，細胞膜為門戶。', 'DisLikes': '12', 'Duration': '22:04', 'Likes': '99', 'Publish_Date': '2015年9月14日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一上自然2-1細胞(3)-動物細胞構造', 'Views': '觀看次數：21,202次'}

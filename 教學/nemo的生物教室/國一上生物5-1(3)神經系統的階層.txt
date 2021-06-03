@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '11 則留言', 'Desc': '神經系統區分為：\n(1)中樞神經：腦、脊髓     \n(2)周圍神經：腦神經、脊神經', 'DisLikes': '8', 'Duration': '0:20', 'Likes': '79', 'Publish_Date': '2015年12月14日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一上生物5-1(3)神經系統的階層', 'Views': '觀看次數：15,802次'}

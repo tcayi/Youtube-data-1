@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '12 則留言', 'Desc': '蕨類fern：\n幼葉呈捲曲狀，成熟葉大多是羽狀複葉，葉背有孢子囊堆。用孢子繁殖，受精時需要水，所以必須生活在潮溼的地方。例如腎蕨、鳥巢蕨、桫欏(筆筒樹)。在古生代時會形成煤炭。', 'DisLikes': '0', 'Duration': '7:25', 'Likes': '24', 'Publish_Date': '2016年5月11日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一下生物4-4植物界(3)-蕨類', 'Views': '觀看次數：7,935次'}

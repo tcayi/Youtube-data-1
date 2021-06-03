@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '13 則留言', 'Desc': '達爾文天擇說：\n1.個體差異(演化發生的必要條件)\n2.過度繁殖\n3.生存競爭\n4.適者生存\n5.世代修飾', 'DisLikes': '3', 'Duration': '15:11', 'Likes': '47', 'Publish_Date': '2016年4月13日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一下生物3-1(2)演化論-達爾文天擇說', 'Views': '觀看次數：13,398次'}

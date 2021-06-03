@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '2 則留言', 'Desc': '', 'DisLikes': '5', 'Duration': '0:28', 'Likes': '33', 'Publish_Date': '2015年10月21日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一上生物3-2酵素(5)-酵素專一性', 'Views': '觀看次數：6,412次'}

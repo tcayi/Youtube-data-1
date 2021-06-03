@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '23 則留言', 'Desc': '單基因遺傳：由一對等位基因決定性狀，如豌豆的高莖矮莖、人類的ABO血型。性狀明確、有或無。\n多基因遺傳：由多對等位基因決定性狀，如人類的身高體重、果實的大小。性狀為連續性、呈常態分布。', 'DisLikes': '9', 'Duration': '13:15', 'Likes': '83', 'Publish_Date': '2016年3月17日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一下生物2-3(1)單基因/多基因遺傳', 'Views': '觀看次數：15,158次'}

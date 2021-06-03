@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '0 則留言', 'Desc': '重點：\n1.分類的依據是：親緣關係，具有共同祖先\n2.種名 species name：請用二名法表示。\n3.五大界的分類可依照營養方式區分。', 'DisLikes': '0', 'Duration': '0:30', 'Likes': '8', 'Publish_Date': '2021年5月18日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一下生物 3-1(2) 分類階層Ⅰ五大界介紹Ⅰ108新課綱', 'Views': '觀看次數：290次'}

@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '18 則留言', 'Desc': '酵素又稱為「酶」\n(1)由蛋白質組成\n(2)具有催化性(加速反應)\n(3)具有專一性，能重複使用\n(4)易受溫度、酸鹼影響(因為蛋白質的特性)', 'DisLikes': '7', 'Duration': '20:51', 'Likes': '143', 'Publish_Date': '2015年10月20日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一上生物3-2酵素(1)-催化劑與專一性', 'Views': '觀看次數：23,135次'}

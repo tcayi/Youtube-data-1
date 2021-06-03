@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '3 則留言', 'Desc': '', 'DisLikes': '3', 'Duration': '4:25', 'Likes': '29', 'Publish_Date': '2015年10月19日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一上生物3-1食物中的營養(2)-實驗：洋芋片熱量的測量', 'Views': '觀看次數：11,937次'}

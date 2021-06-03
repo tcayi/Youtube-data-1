@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '7 則留言', 'Desc': '', 'DisLikes': '2', 'Duration': '9:46', 'Likes': '21', 'Publish_Date': '2015年12月28日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一上生物5-4(0)植物的感應-影片介紹', 'Views': '觀看次數：5,215次'}

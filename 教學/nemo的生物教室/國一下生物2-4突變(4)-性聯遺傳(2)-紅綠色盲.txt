@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '觀看次數：8,155次 • 2016年4月8日', 'Desc': '', 'DisLikes': '3', 'Duration': '11:58', 'Likes': '55', 'Publish_Date': '2016年4月8日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一下生物2-4突變(4)-性聯遺傳(2)-紅綠色盲', 'Views': '觀看次數：8,155次'}

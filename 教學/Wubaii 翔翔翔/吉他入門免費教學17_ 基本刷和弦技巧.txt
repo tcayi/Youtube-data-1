@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCGwAEwrZdorxDcfkwU2PM0g', 'ChannelName': '酷派音樂', 'Comments': '60 則留言', 'Desc': '蔡文展吉他訓練中心\nhttp://www.wenguitar.com', 'DisLikes': '85', 'Duration': '13:16', 'Likes': '1671', 'Publish_Date': '2014年7月23日', 'Subscribers': '7.2萬 位訂閱者', 'Title': '吉他入門免費教學17: 基本刷和弦技巧', 'Views': '觀看次數：349,964次'}

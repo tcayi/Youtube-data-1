@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '21 則留言', 'Desc': '細胞分裂的過程：\n(1)染色體複製→(2)所有染色體排成一直列→(3)複製的染色體分離。', 'DisLikes': '3', 'Duration': '0:15', 'Likes': '79', 'Publish_Date': '2016年1月26日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一下生物1-1(2)細胞分裂', 'Views': '觀看次數：16,222次'}

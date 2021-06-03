@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UC7N2uo785LMZjYjDcobMf_w', 'ChannelName': '呂聰賢', 'Comments': '0 則留言', 'Desc': '', 'DisLikes': '0', 'Duration': '7:15', 'Likes': '4', 'Publish_Date': '2019年8月17日', 'Subscribers': '1.67萬 位訂閱者', 'Title': '05開始玩遊戲水果試測驗', 'Views': '觀看次數：1,385次'}

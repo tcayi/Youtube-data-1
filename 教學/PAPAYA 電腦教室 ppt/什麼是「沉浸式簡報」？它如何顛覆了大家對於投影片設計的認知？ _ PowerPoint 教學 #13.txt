@@ -1,0 +1,5 @@
+{'ChannelLink': '/channel/UCdEpz2A4DzV__4C1x2quKLw', 'ChannelName': 'PAPAYA 電腦教室', 'Comments': '只顯示部分資訊', 'Desc': '練習檔（載點 1）：https://tinyurl.com/y3f6zl5y\n練習檔（載點 2）：https://share.weiyun.com/5tf4UMr\n思源宋體下載：https://source.typekit.com/source-han...\n影片中使用的軟體版本：Office 365 https://products.office.com/zh-tw/pro...\n轉化功能教學： https://youtu.be/4ZXMLX1KqG0\n\nMusic from https://www.zapsplat.com\nIcon made by Darius Dan、Freepik from www.flaticon.com', 'DisLikes': '293', 'Duration': '10:48', 'Likes': '3.6萬', 'Publish_Date': '2019年10月8日', 'Subscribers': '84.1萬 位訂閱者', 'Title': '什麼是「沉浸式簡報」？它如何顛覆了大家對於投影片設計的認知？ | PowerPoint 教學 #13', 'Views': '觀看次數：1,057,485次'}
+ 
+--------------------------------------------------------------------------------
+ 
+{}

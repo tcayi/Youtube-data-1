@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '1 則留言', 'Desc': '植物細胞包含：細胞壁、葉綠體，這二個和動物不同的構造，此外具有較大的中央液胞，其餘胞器的構造和動物相似。', 'DisLikes': '5', 'Duration': '14:13', 'Likes': '82', 'Publish_Date': '2015年9月14日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一上自然2-1細胞(4)-植物細胞構造', 'Views': '觀看次數：18,205次'}

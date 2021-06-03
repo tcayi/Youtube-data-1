@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCd4JzeAkgTsyJDEkWC11PoA', 'ChannelName': 'A Jie', 'Comments': '453 則留言', 'Desc': '', 'DisLikes': '118', 'Duration': '9:07', 'Likes': '2529', 'Publish_Date': '2015年5月24日', 'Subscribers': '29.3萬 位訂閱者', 'Title': 'A Jie點評 - 不起眼女主角培育法', 'Views': '觀看次數：360,353次'}

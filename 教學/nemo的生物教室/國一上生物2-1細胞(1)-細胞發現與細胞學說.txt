@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '14 則留言', 'Desc': '英國虎克發現細胞。\n德國許旺(動物細胞)和許來登(植物細胞)，菲可(細胞分裂)提出細胞學說。', 'DisLikes': '15', 'Duration': '21:11', 'Likes': '117', 'Publish_Date': '2015年9月11日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一上生物2-1細胞(1)-細胞發現與細胞學說', 'Views': '觀看次數：25,701次'}

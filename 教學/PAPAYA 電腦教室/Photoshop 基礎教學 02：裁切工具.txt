@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCdEpz2A4DzV__4C1x2quKLw', 'ChannelName': 'PAPAYA 電腦教室', 'Comments': '觀看次數：349,603次 • 2015年12月3日 • 練習檔下載：http://bit.ly/2PbQ0TL', 'Desc': '練習檔下載：http://bit.ly/2PbQ0TL', 'DisLikes': '39', 'Duration': '4:46', 'Likes': '1872', 'Publish_Date': '2015年12月3日', 'Subscribers': '84.1萬 位訂閱者', 'Title': 'Photoshop 基礎教學 02：裁切工具', 'Views': '觀看次數：349,603次'}

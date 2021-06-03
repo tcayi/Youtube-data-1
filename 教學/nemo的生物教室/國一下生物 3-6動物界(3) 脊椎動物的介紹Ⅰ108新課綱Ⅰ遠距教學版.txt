@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '5 則留言', 'Desc': '脊椎動物的演化基本介紹', 'DisLikes': '0', 'Duration': '0:30', 'Likes': '23', 'Publish_Date': '2021年5月25日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一下生物 3-6動物界(3) 脊椎動物的介紹Ⅰ108新課綱Ⅰ遠距教學版', 'Views': '觀看次數：593次'}

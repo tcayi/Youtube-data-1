@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCDIxyUOAs2F9vYKozdsmj_A', 'ChannelName': '暗黑動畫師 血多 Xieduo', 'Comments': '63 則留言', 'Desc': '我幫得瑞克科技製作的online game- ４Story 的搞笑宣傳動畫', 'DisLikes': '40', 'Duration': '0:18', 'Likes': '903', 'Publish_Date': '2009年7月5日', 'Subscribers': '14.5萬 位訂閱者', 'Title': '４Story 宿命之謎  女神的秘密', 'Views': '觀看次數：354,248次'}

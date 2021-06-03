@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCGwAEwrZdorxDcfkwU2PM0g', 'ChannelName': '酷派音樂', 'Comments': '15 則留言', 'Desc': '蔡文展吉他訓練中心\nhttp://www.wenguitar.com', 'DisLikes': '12', 'Duration': '11:41', 'Likes': '321', 'Publish_Date': '2014年7月22日', 'Subscribers': '7.2萬 位訂閱者', 'Title': '吉他入門免費教學10: 什麼是C大調第三級和弦？', 'Views': '觀看次數：89,212次'}

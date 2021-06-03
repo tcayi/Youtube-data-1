@@ -1,0 +1,5 @@
+{'ChannelLink': '/channel/UCdEpz2A4DzV__4C1x2quKLw', 'ChannelName': 'PAPAYA 電腦教室', 'Comments': '只顯示部分資訊', 'Desc': '練習檔下載\nhttps://1drv.ms/u/s!AoXOl3Y39m38hdgmZ...', 'DisLikes': '12', 'Duration': '5:12', 'Likes': '1619', 'Publish_Date': '2018年12月25日', 'Subscribers': '84.1萬 位訂閱者', 'Title': '投影片縮圖竟然也可以拿來做動畫？而且效果出乎意料的好  | PowerPoint 教學 #07', 'Views': '觀看次數：114,219次'}
+ 
+--------------------------------------------------------------------------------
+ 
+{}

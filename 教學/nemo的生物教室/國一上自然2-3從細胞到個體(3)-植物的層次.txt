@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '5 則留言', 'Desc': '', 'DisLikes': '4', 'Duration': '11:13', 'Likes': '36', 'Publish_Date': '2015年10月7日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一上自然2-3從細胞到個體(3)-植物的層次', 'Views': '觀看次數：7,880次'}

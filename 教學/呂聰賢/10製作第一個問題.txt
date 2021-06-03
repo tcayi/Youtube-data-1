@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UC7N2uo785LMZjYjDcobMf_w', 'ChannelName': '呂聰賢', 'Comments': '0 則留言', 'Desc': '', 'DisLikes': '1', 'Duration': '3:30', 'Likes': '3', 'Publish_Date': '2019年8月17日', 'Subscribers': '1.67萬 位訂閱者', 'Title': '10製作第一個問題', 'Views': '觀看次數：677次'}

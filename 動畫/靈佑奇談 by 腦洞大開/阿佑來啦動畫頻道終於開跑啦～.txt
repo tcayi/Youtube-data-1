@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UC0iPkBMkTL1Cmnck0aciqhw', 'ChannelName': '靈佑奇談 by 腦洞大開', 'Comments': '137 則留言', 'Desc': '來一起訂閱阿佑來啦新動畫頻道：\nhttps://www.youtube.com/channel/UCAFr...', 'DisLikes': '45', 'Duration': '0:24', 'Likes': '1612', 'Publish_Date': '2020年11月6日', 'Subscribers': '22萬 位訂閱者', 'Title': '阿佑來啦動畫頻道終於開跑啦～', 'Views': '觀看次數：60,603次'}

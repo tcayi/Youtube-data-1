@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '4 則留言', 'Desc': '口腔→咽喉→食道→胃→小腸→大腸→肛門', 'DisLikes': '1', 'Duration': '0:31', 'Likes': '45', 'Publish_Date': '2015年11月2日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一上生物3-4動物如何獲得養分(6)-人體消化管(消化道)之歌', 'Views': '觀看次數：8,887次'}

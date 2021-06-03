@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '0 則留言', 'Desc': '澱粉+唾液(37℃)→溫水中靜置反應(10min)→產生葡萄糖→加入本氏液→隔水加熱→本氏液變色(黃綠)', 'DisLikes': '4', 'Duration': '0:30', 'Likes': '34', 'Publish_Date': '2015年10月22日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一上生物3-2酵素(6)-唾液實驗', 'Views': '觀看次數：9,452次'}

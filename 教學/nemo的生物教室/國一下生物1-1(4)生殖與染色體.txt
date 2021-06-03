@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '11 則留言', 'Desc': '', 'DisLikes': '5', 'Duration': '12:38', 'Likes': '97', 'Publish_Date': '2016年1月29日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一下生物1-1(4)生殖與染色體', 'Views': '觀看次數：14,599次'}

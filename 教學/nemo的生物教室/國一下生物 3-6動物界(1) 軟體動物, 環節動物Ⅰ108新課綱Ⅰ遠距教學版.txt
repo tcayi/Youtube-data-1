@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '7 則留言', 'Desc': '介紹動物界的生物，包含\n刺絲胞動物門：水母水螅海葵珊瑚\n扁形動物門：渦蟲, 絛蟲, 吸蟲\n軟體動物門：蝸牛, 烏賊, 蛤\n環節動物門：蚯蚓, 水蛭', 'DisLikes': '0', 'Duration': '0:30', 'Likes': '36', 'Publish_Date': '2021年5月19日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一下生物 3-6動物界(1) 軟體動物, 環節動物Ⅰ108新課綱Ⅰ遠距教學版', 'Views': '觀看次數：1,118次'}

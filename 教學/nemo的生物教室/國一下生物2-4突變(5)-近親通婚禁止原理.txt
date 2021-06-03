@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '5 則留言', 'Desc': '近親通婚：由於家族成員的基因相似性較高，所以近親通婚容易使家族中，隱性且致病的等位基因相遇，造成嚴重的遺傳疾病、流產或畸型等。', 'DisLikes': '3', 'Duration': '12:30', 'Likes': '48', 'Publish_Date': '2016年4月9日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一下生物2-4突變(5)-近親通婚禁止原理', 'Views': '觀看次數：8,511次'}

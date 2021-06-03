@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '3 則留言', 'Desc': '', 'DisLikes': '2', 'Duration': '3:36', 'Likes': '21', 'Publish_Date': '2016年5月28日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一下生物4-5(4)軟體動物門(ppt)', 'Views': '觀看次數：7,487次'}

@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCdEpz2A4DzV__4C1x2quKLw', 'ChannelName': 'PAPAYA 電腦教室', 'Comments': '觀看次數：72,014次 • 2016年11月13日 • 練習檔下載：http://bit.ly/2IoayXs', 'Desc': '練習檔下載：http://bit.ly/2IoayXs', 'DisLikes': '7', 'Duration': '6:03', 'Likes': '538', 'Publish_Date': '2016年11月13日', 'Subscribers': '84.1萬 位訂閱者', 'Title': 'Photoshop 基礎教學 15：使用漸層對應功能來產生風格化的相片色調', 'Views': '觀看次數：72,014次'}

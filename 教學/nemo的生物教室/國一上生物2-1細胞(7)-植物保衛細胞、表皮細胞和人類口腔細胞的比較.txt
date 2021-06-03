@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '9 則留言', 'Desc': '植物保衛細胞：形狀半月形兩兩成對，具有細胞壁，有葉綠體\n植物表皮細胞：形狀方格狀，具有細胞壁，無葉綠體\n人類口腔細胞：形狀不規則，不具有細胞壁，無葉綠體', 'DisLikes': '8', 'Duration': '6:52', 'Likes': '64', 'Publish_Date': '2015年9月25日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一上生物2-1細胞(7)-植物保衛細胞、表皮細胞和人類口腔細胞的比較', 'Views': '觀看次數：13,444次'}

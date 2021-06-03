@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '4 則留言', 'Desc': '注射藥劑到手臂→上大靜脈→右心房→右心室→肺動脈→肺→肺靜脈→左心房→左心室→主動脈→各部位器官(腦、手、腳、肝、腎、胃、腸…)', 'DisLikes': '1', 'Duration': '0:30', 'Likes': '35', 'Publish_Date': '2015年11月26日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一上生物4-3血液循環-打針和血液流經器官', 'Views': '觀看次數：8,934次'}

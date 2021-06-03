@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '8 則留言', 'Desc': '', 'DisLikes': '9', 'Duration': '25:27', 'Likes': '85', 'Publish_Date': '2015年9月16日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一上自然2-1細胞(5)-複式顯微鏡構造', 'Views': '觀看次數：17,359次'}

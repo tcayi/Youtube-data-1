@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '18 則留言', 'Desc': '', 'DisLikes': '4', 'Duration': '22:07', 'Likes': '67', 'Publish_Date': '2015年11月6日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一上生物4-1植物的運輸構造(2)-年輪', 'Views': '觀看次數：13,150次'}

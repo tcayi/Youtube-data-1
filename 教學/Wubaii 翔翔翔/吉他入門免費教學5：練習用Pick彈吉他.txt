@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCGwAEwrZdorxDcfkwU2PM0g', 'ChannelName': '酷派音樂', 'Comments': '38 則留言', 'Desc': '蔡文展吉他訓練中心\nhttp://www.wenguitar.com', 'DisLikes': '41', 'Duration': '15:31', 'Likes': '975', 'Publish_Date': '2014年7月7日', 'Subscribers': '7.2萬 位訂閱者', 'Title': '吉他入門免費教學5：練習用Pick彈吉他', 'Views': '觀看次數：299,801次'}

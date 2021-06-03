@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '20 則留言', 'Desc': '向性的原理：\n(1)受生長素分布不均勻所致。\n(2)莖：高濃度生長素能促進莖生長，形成：向光性、背地性、向觸性。\n(3)根：高濃度生長素會抑制根生長，形成：背光性、向地性。', 'DisLikes': '5', 'Duration': '22:50', 'Likes': '60', 'Publish_Date': '2015年12月28日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一上生物5-4(2)植物感應-向性作用原理', 'Views': '觀看次數：11,248次'}

@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCdEpz2A4DzV__4C1x2quKLw', 'ChannelName': 'PAPAYA 電腦教室', 'Comments': '觀看次數：149,275次 • 2017年1月9日 • 練習檔下載：http://bit.ly/2DcDApH', 'Desc': '練習檔下載：http://bit.ly/2DcDApH', 'DisLikes': '25', 'Duration': '0:20', 'Likes': '1548', 'Publish_Date': '2017年1月9日', 'Subscribers': '84.1萬 位訂閱者', 'Title': 'Photoshop 基礎教學 22：合成影像超好用的「圖層遮色片」', 'Views': '觀看次數：149,275次'}

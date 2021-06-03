@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '10 則留言', 'Desc': '', 'DisLikes': '3', 'Duration': '9:07', 'Likes': '43', 'Publish_Date': '2015年10月27日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一上生物3-3植物如何獲得養分(3)光合作用歸納', 'Views': '觀看次數：10,352次'}

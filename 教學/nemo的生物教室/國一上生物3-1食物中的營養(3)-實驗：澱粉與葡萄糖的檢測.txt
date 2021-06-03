@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '6 則留言', 'Desc': '澱粉：用碘液檢測，由黃褐色→藍黑色\n葡萄糖：用本氏液檢測，並需要隔水加熱，由淡藍色→綠→黃→橙→紅', 'DisLikes': '1', 'Duration': '8:28', 'Likes': '41', 'Publish_Date': '2015年10月19日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一上生物3-1食物中的營養(3)-實驗：澱粉與葡萄糖的檢測', 'Views': '觀看次數：12,601次'}

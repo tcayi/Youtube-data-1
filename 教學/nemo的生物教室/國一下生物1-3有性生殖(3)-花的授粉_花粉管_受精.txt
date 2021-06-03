@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '17 則留言', 'Desc': '花朵的有性生殖：授粉→花粉萌發花粉管→受精→子房變果實，胚珠變種子', 'DisLikes': '3', 'Duration': '18:26', 'Likes': '78', 'Publish_Date': '2016年3月9日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一下生物1-3有性生殖(3)-花的授粉/花粉管/受精', 'Views': '觀看次數：14,422次'}

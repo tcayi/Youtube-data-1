@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '5 則留言', 'Desc': '呼吸運動：\n1.吸氣：(橫膈收縮向下；肋骨向上)→胸腔體積變大→胸腔壓力變小→肺被動脹大→吸氣。\n2.呼氣：(橫膈舒張向上；肋骨向下)→胸腔體積變小→胸腔壓力變大→肺擠壓縮小→呼氣。', 'DisLikes': '1', 'Duration': '17:40', 'Likes': '41', 'Publish_Date': '2016年1月8日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一上生物6-3(3)呼吸運動', 'Views': '觀看次數：7,200次'}

@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '15 則留言', 'Desc': '介紹染色體的發現及構造：\n佛萊明是第一位在細胞分裂過程中發現染色體科學家。1879年，佛萊明利用苯胺染料，將蠑螈的胚胎細胞染色。結果觀察到細胞分裂過程中的絲狀物質，稱之為「染色體CHROMOSOME」', 'DisLikes': '3', 'Duration': '0:18', 'Likes': '140', 'Publish_Date': '2018年2月8日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '你需要知道的染色體-國一下生物1-1', 'Views': '觀看次數：21,717次'}

@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '12 則留言', 'Desc': '我利用 YouTube 影片編輯器 (https://www.youtube.com/editor) 製作了這部影片', 'DisLikes': '5', 'Duration': '21:10', 'Likes': '44', 'Publish_Date': '2016年1月12日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一上生物6-5排泄作用', 'Views': '觀看次數：8,200次'}

@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '9 則留言', 'Desc': '這裡有三個重點：\n1. 血流方向總是遵循：靜脈→心房→心室→動脈。(口訣：靜房室動)\n2. 左心皆為充氧血，右心皆為缺氧血。\n3. 微血管是物質交換的所在地。', 'DisLikes': '5', 'Duration': '2:20', 'Likes': '71', 'Publish_Date': '2012年11月14日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一上自然4-3心臟與血管', 'Views': '觀看次數：15,643次'}

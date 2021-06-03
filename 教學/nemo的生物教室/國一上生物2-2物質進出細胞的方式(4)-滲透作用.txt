@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '15 則留言', 'Desc': '滲透作用：水通過細胞膜或半透膜的擴散現象。水也會遵行擴散作用的原理，由水分濃度高的地方往水分濃度低的方向擴散。', 'DisLikes': '8', 'Duration': '19:13', 'Likes': '78', 'Publish_Date': '2015年10月1日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一上生物2-2物質進出細胞的方式(4)-滲透作用', 'Views': '觀看次數：12,158次'}

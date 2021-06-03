@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCk9coqVuf7jW9f_heaxSjhA', 'ChannelName': '小錢玩權證 財富大起飛', 'Comments': '5 則留言', 'Desc': '泰勞闖台股  8萬變800萬\n他，出身泰北窮苦鄉村，在台灣當了18年的外勞；不甘領微薄薪水，現金卡借錢投資卻全賠光；如今掌握簡單3招，靠台股月賺50萬。他的方法，國中生只花一週就學會！', 'DisLikes': '22', 'Duration': '4:47', 'Likes': '353', 'Publish_Date': '2014年9月3日', 'Subscribers': '', 'Title': '泰勞闖台股，做對3件事，靠權證翻身不是夢', 'Views': '觀看次數：82,341次'}

@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCdEpz2A4DzV__4C1x2quKLw', 'ChannelName': 'PAPAYA 電腦教室', 'Comments': '39 則留言', 'Desc': '練習檔下載：http://bit.ly/2UNBDdd', 'DisLikes': '3', 'Duration': '0:15', 'Likes': '604', 'Publish_Date': '2017年10月18日', 'Subscribers': '84.1萬 位訂閱者', 'Title': 'Photoshop 基礎教學 34：消失點（下集）', 'Views': '觀看次數：42,468次'}

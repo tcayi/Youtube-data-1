@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '20 則留言', 'Desc': '', 'DisLikes': '9', 'Duration': '0:30', 'Likes': '112', 'Publish_Date': '2015年12月11日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一上生物5-1(1)刺激與反應', 'Views': '觀看次數：20,321次'}

@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '9 則留言', 'Desc': '心臟收縮舒張重點：\n1.心臟收縮的血流：心房-＞心室，心室-＞動脈。\n2.心臟舒張的血流：靜脈-＞心房。', 'DisLikes': '6', 'Duration': '3:30', 'Likes': '54', 'Publish_Date': '2012年11月15日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一上自然4-3 心臟收縮與舒張', 'Views': '觀看次數：15,218次'}

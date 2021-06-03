@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '14 則留言', 'Desc': '', 'DisLikes': '5', 'Duration': '24:45', 'Likes': '72', 'Publish_Date': '2016年3月21日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一下生物2-3(3)性別遺傳', 'Views': '觀看次數：11,912次'}

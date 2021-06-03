@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCdEpz2A4DzV__4C1x2quKLw', 'ChannelName': 'PAPAYA 電腦教室', 'Comments': '65 則留言', 'Desc': '練習檔下載：http://bit.ly/2IeNb3i', 'DisLikes': '17', 'Duration': '4:01', 'Likes': '1334', 'Publish_Date': '2017年5月22日', 'Subscribers': '84.1萬 位訂閱者', 'Title': 'Photoshop 基礎教學 30：一次搞懂「內容感知」全糸列的工具', 'Views': '觀看次數：92,938次'}

@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UC1tp9qN7mqIJ7CLVNVvsKzg', 'ChannelName': '冏冏子', 'Comments': '226 則留言', 'Desc': '覺得語速太快有CC字幕可以開啟。\n\nFB粉絲頁開張 http://www.facebook.com/shintaroReview', 'DisLikes': '14', 'Duration': '0:20', 'Likes': '1511', 'Publish_Date': '2013年5月14日', 'Subscribers': '48.2萬 位訂閱者', 'Title': '囧星人評論動畫＃4：PERFECT BLUE 藍色恐懼', 'Views': '觀看次數：129,169次'}

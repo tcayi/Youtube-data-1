@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '12 則留言', 'Desc': '光合作用：\n(1)光反應：利用葉綠素吸收光能，將水分解，產生氧氣和高能物質。\n(2)碳反應：利用高能物質和酵素，將二氧化碳合成葡萄糖和水。', 'DisLikes': '3', 'Duration': '16:07', 'Likes': '81', 'Publish_Date': '2015年10月25日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一上生物3-3植物如何獲得養分(2)-光合作用', 'Views': '觀看次數：17,092次'}

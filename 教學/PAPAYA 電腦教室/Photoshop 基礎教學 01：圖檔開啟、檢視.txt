@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCdEpz2A4DzV__4C1x2quKLw', 'ChannelName': 'PAPAYA 電腦教室', 'Comments': '295 則留言', 'Desc': '', 'DisLikes': '78', 'Duration': '0:18', 'Likes': '5435', 'Publish_Date': '2015年11月29日', 'Subscribers': '84.1萬 位訂閱者', 'Title': 'Photoshop 基礎教學 01：圖檔開啟、檢視', 'Views': '觀看次數：674,560次'}

@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '2 則留言', 'Desc': '建議可以調快影片速度1.25倍', 'DisLikes': '2', 'Duration': '9:24', 'Likes': '20', 'Publish_Date': '2015年11月18日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一上生物4-3動物的物質運輸(6)-血液', 'Views': '觀看次數：6,741次'}

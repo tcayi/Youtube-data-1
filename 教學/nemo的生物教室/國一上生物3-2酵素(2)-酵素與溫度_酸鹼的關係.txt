@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '1 則留言', 'Desc': '', 'DisLikes': '7', 'Duration': '13:23', 'Likes': '64', 'Publish_Date': '2015年10月20日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一上生物3-2酵素(2)-酵素與溫度/酸鹼的關係', 'Views': '觀看次數：12,934次'}

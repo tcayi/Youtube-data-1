@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '12 則留言', 'Desc': '內分泌是一種由許多腺體組成的系統，會分泌不同的激素，藉由血漿運送到身體各部位影響特定的器官發育、調節機能、影響代謝作用。激素的作用通常具有專ㄧ性', 'DisLikes': '5', 'Duration': '16:52', 'Likes': '82', 'Publish_Date': '2015年12月22日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一上生物5-2(1)內分泌的運作原理', 'Views': '觀看次數：14,762次'}

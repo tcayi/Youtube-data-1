@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '觀看次數：17,899次 • 2016年2月27日', 'Desc': '', 'DisLikes': '4', 'Duration': '8:16', 'Likes': '91', 'Publish_Date': '2016年2月27日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一下生物1-3有性生殖(1)-受精方式', 'Views': '觀看次數：17,899次'}

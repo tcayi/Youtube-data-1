@@ -1,0 +1,5 @@
+{'ChannelLink': '/channel/UCdEpz2A4DzV__4C1x2quKLw', 'ChannelName': 'PAPAYA 電腦教室', 'Comments': '只顯示部分資訊', 'Desc': '練習檔下載：https://1drv.ms/u/s!AoXOl3Y39m38hdwri...\nCoolors 配色網站： https://coolors.co/\n台北黑體下載： https://sites.google.com/view/jtfoundry/\nLorem Ipsum 假文產生器： https://www.lipsum.com/feed/html\nIcon made by smashicons from www.flaticon.com', 'DisLikes': '78', 'Duration': '10:09', 'Likes': '1.3萬', 'Publish_Date': '2019年7月11日', 'Subscribers': '84.1萬 位訂閱者', 'Title': '如何設計一個簡單且質感指數破表的時間軸？| PowerPoint 教學 #12', 'Views': '觀看次數：405,555次'}
+ 
+--------------------------------------------------------------------------------
+ 
+{}

@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '33 則留言', 'Desc': '學習的重點有三個：構造、種類及應用。\n介紹原核生物界，原生生物界，菌物界，植物界。', 'DisLikes': '6', 'Duration': '0:57', 'Likes': '173', 'Publish_Date': '2018年5月5日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一下生物二段考重點（下）4-1～4-5', 'Views': '觀看次數：12,812次'}

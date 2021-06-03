@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '4 則留言', 'Desc': '', 'DisLikes': '8', 'Duration': '9:45', 'Likes': '62', 'Publish_Date': '2015年11月9日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一上生物4-3動物的物質運輸(1)-閉鎖式與開放式循環', 'Views': '觀看次數：15,014次'}

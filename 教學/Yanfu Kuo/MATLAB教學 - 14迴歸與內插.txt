@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCPFozH8PbQiuo1s5zX5HH0A', 'ChannelName': 'Yanfu Kuo', 'Comments': '35 則留言', 'Desc': '教學內容: 迴歸、曲線擬合，與內插\n\n演講者: 郭彥甫 (Yan-Fu Kuo), 台大生機系 \n\n講義: https://sites.google.com/site/machine...', 'DisLikes': '0', 'Duration': '45:55', 'Likes': '126', 'Publish_Date': '2015年12月7日', 'Subscribers': '9690 位訂閱者', 'Title': 'MATLAB教學 - 14迴歸與內插', 'Views': '觀看次數：17,106次'}

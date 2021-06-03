@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '25 則留言', 'Desc': '', 'DisLikes': '2', 'Duration': '0:30', 'Likes': '64', 'Publish_Date': '2016年3月4日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一下生物1-3有性生殖(4)-人類的生殖', 'Views': '觀看次數：10,545次'}

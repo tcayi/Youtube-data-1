@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '20 則留言', 'Desc': 'ABO血型：\n1.為單基因遺傳，也就是說由一對等位基因決定血型。\n2.等位基因有三種：兩個顯性I^A、I^B、和一個隱性i\n3.表現型有四種：A型、B型、O型、AB型', 'DisLikes': '16', 'Duration': '18:01', 'Likes': '116', 'Publish_Date': '2016年3月17日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一下生物2-3(2)人類的ABO血型', 'Views': '觀看次數：20,538次'}

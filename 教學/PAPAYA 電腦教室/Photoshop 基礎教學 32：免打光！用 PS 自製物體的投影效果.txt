@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCdEpz2A4DzV__4C1x2quKLw', 'ChannelName': 'PAPAYA 電腦教室', 'Comments': '36 則留言', 'Desc': '練習檔下載：http://bit.ly/2UJ8fVG', 'DisLikes': '6', 'Duration': '0:20', 'Likes': '793', 'Publish_Date': '2017年7月15日', 'Subscribers': '84.1萬 位訂閱者', 'Title': 'Photoshop 基礎教學 32：免打光！用 PS 自製物體的投影效果', 'Views': '觀看次數：62,227次'}

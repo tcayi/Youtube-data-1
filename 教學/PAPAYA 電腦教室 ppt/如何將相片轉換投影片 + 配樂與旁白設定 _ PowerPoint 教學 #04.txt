@@ -1,0 +1,5 @@
+{'ChannelLink': '/channel/UCdEpz2A4DzV__4C1x2quKLw', 'ChannelName': 'PAPAYA 電腦教室', 'Comments': '只顯示部分資訊', 'Desc': '► 練習檔下載\n https://1drv.ms/u/s!AoXOl3Y39m38hdgxI...\n ► YouTube 音效庫\n www.youtube.com/audiolibrary\n\n► 影片中所使用的音樂素材\n「Chris Zabriskie」創作的「Prelude No. 23」是根據「Creative Commons Attribution」(https://creativecommons.org/licenses/...) 授權使用\n來源：http://chriszabriskie.com/preludes/\n演出者：http://chriszabriskie.com/', 'DisLikes': '40', 'Duration': '11:17', 'Likes': '2597', 'Publish_Date': '2018年8月30日', 'Subscribers': '84.1萬 位訂閱者', 'Title': '如何將相片轉換投影片 + 配樂與旁白設定 | PowerPoint 教學 #04', 'Views': '觀看次數：254,253次'}
+ 
+--------------------------------------------------------------------------------
+ 
+{}

@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '11 則留言', 'Desc': '植物界：\n出現順序：蘚苔→蕨→裸子植物→被子植物(開花植物)', 'DisLikes': '3', 'Duration': '30:25', 'Likes': '58', 'Publish_Date': '2016年5月6日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一下生物4-4植物界(103年度)', 'Views': '觀看次數：8,262次'}

@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UC5aZlbFmHxqsRgczTC51j3Q', 'ChannelName': '我就是NG', 'Comments': '481 則留言', 'Desc': '', 'DisLikes': '294', 'Duration': '6:48', 'Likes': '5610', 'Publish_Date': '2019年4月10日', 'Subscribers': '34.4萬 位訂閱者', 'Title': '【NG】來介紹一部不愛我就殺你全家的動畫《妖精的旋律 Elfen Lied》', 'Views': '觀看次數：667,367次'}

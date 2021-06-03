@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCdEpz2A4DzV__4C1x2quKLw', 'ChannelName': 'PAPAYA 電腦教室', 'Comments': '15 則留言', 'Desc': '練習檔下載：http://bit.ly/2UvSsKz', 'DisLikes': '9', 'Duration': '0:20', 'Likes': '502', 'Publish_Date': '2016年12月21日', 'Subscribers': '84.1萬 位訂閱者', 'Title': 'Photoshop 基礎教學 20：我也要加入復仇者聯盟 ~  透明人來了！', 'Views': '觀看次數：68,428次'}

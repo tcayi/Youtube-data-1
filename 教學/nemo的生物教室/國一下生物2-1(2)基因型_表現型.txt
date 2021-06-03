@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCt9A1tXbHdISUreMmN_IcsA', 'ChannelName': 'nemo的生物教室', 'Comments': '17 則留言', 'Desc': '', 'DisLikes': '6', 'Duration': '4:49', 'Likes': '80', 'Publish_Date': '2016年3月11日', 'Subscribers': '3.25萬 位訂閱者', 'Title': '國一下生物2-1(2)基因型/表現型', 'Views': '觀看次數：14,019次'}

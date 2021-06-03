@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCdEpz2A4DzV__4C1x2quKLw', 'ChannelName': 'PAPAYA 電腦教室', 'Comments': '20 則留言', 'Desc': '練習檔下載：http://bit.ly/2Kq50OZ\n使用工具：快速遮色片、漸層工具、智慧型濾鏡、高斯模糊', 'DisLikes': '10', 'Duration': '8:38', 'Likes': '578', 'Publish_Date': '2016年11月20日', 'Subscribers': '84.1萬 位訂閱者', 'Title': 'Photoshop 基礎教學 16：如何使用 Photoshop 建立多層次的景深', 'Views': '觀看次數：75,925次'}

@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UCGwAEwrZdorxDcfkwU2PM0g', 'ChannelName': '酷派音樂', 'Comments': '38 則留言', 'Desc': '蔡文展吉他訓練中心\nhttp://www.wenguitar.com', 'DisLikes': '7', 'Duration': '17:43', 'Likes': '277', 'Publish_Date': '2014年7月22日', 'Subscribers': '7.2萬 位訂閱者', 'Title': '吉他入門免費教學11 : 什麼是C大調第四級和弦？', 'Views': '觀看次數：78,452次'}

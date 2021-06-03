@@ -1,0 +1,1 @@
+{'ChannelLink': '/channel/UC7OWR92rzpvqzJGz0wYzhOg', 'ChannelName': '大佬甜er', 'Comments': '2,515 則留言', 'Desc': '', 'DisLikes': '1272', 'Duration': '21:38', 'Likes': '8.6萬', 'Publish_Date': '2017年11月29日', 'Subscribers': '50.9萬 位訂閱者', 'Title': '大佬甜er |新手化妆常犯哪些可怕错误？保姆级细致解说 |正确示范VS错误示范', 'Views': '觀看次數：2,385,738次'}

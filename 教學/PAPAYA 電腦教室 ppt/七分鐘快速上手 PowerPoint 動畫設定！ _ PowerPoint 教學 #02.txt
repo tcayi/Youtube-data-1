@@ -1,0 +1,5 @@
+{'ChannelLink': '/channel/UCdEpz2A4DzV__4C1x2quKLw', 'ChannelName': 'PAPAYA 電腦教室', 'Comments': '只顯示部分資訊', 'Desc': '練習檔下載\nhttps://1drv.ms/u/s!AoXOl3Y39m38hdggo...', 'DisLikes': '52', 'Duration': '6:31', 'Likes': '2203', 'Publish_Date': '2018年4月18日', 'Subscribers': '84.1萬 位訂閱者', 'Title': '七分鐘快速上手 PowerPoint 動畫設定！ | PowerPoint 教學 #02', 'Views': '觀看次數：334,735次'}
+ 
+--------------------------------------------------------------------------------
+ 
+{}

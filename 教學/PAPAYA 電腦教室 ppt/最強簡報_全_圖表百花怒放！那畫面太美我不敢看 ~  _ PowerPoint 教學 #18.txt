@@ -1,0 +1,5 @@
+{'ChannelLink': '/channel/UCdEpz2A4DzV__4C1x2quKLw', 'ChannelName': 'PAPAYA 電腦教室', 'Comments': '只顯示部分資訊', 'Desc': '► 內容綱要 (影片有提供 CC 中文字幕喔）\n00:00 開場白\n00:09 長條圖\n02:13 折線圖\n03:04 圓形圖\n04:53 流程圖\n07:06 資訊圖\n08:20 儀表圖 \n\n► 練習檔下載\n載點一 https://tinyurl.com/y3zrz3ap\n載點二 https://share.weiyun.com/CSzxwTDr\n\n► 影片中操作的軟體版本\nMicrosoft 365 https://tinyurl.com/ya7b4v9o\n\n► 加入 YouTube 頻道會員（每月有不定期的會員專屬教學短片喔！）\nhttps://tinyurl.com/sxt3d2b \n\n► 小額贊助 Papaya 電腦教室 ☕\nBuy me a Coffee (Paypal) https://www.buymeacoffee.com/papayaclass\n\n► 影片中用到的多媒體素材來源\nhttps://www.flaticon.com\nhttps://www.freepik.com\n\n► Papaya 剪輯影片所使用的軟體\nAdobe After Effects https://tinyurl.com/sobj83y\nCamtasia Studio https://tinyurl.com/y6thupff\nKeynote https://www.apple.com/tw/keynote/\n\n► Papaya 電腦教室的 B 站網址\n https://space.bilibili.com/402780815\n#Papaya電腦教室 #PowerPoint #圖表', 'DisLikes': '10', 'Duration': '11:41', 'Likes': '4049', 'Publish_Date': '2020年9月14日', 'Subscribers': '84.1萬 位訂閱者', 'Title': '最強簡報"全"圖表百花怒放！那畫面太美我不敢看 ~  | PowerPoint 教學 #18', 'Views': '觀看次數：104,751次'}
+ 
+--------------------------------------------------------------------------------
+ 
+{}
